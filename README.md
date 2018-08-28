@@ -1,5 +1,7 @@
 # notebooks-archdata
 
+[![DOI](https://zenodo.org/badge/134444997.svg)](https://zenodo.org/badge/latestdoi/134444997)
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/o-date/notebooks-archdata/master)
 
 This binder is preloaded with R, ggplot, Rcurl, ggplot, jsonlite, and the [archdata](https://cran.rstudio.com/web/packages/archdata/archdata.pdf) package. It also has a table from [Graham 2016](https://hcommons.org/deposits/item/hc:18909/) to demonstrate how to read in a csv file. Use this notebook as a starting point for learning some statistical analysis of archaeological data. See also [Marwick 2018 CRAN Taskview: Archaeological Science](https://github.com/benmarwick/ctv-archaeology/).
